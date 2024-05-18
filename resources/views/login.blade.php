@@ -18,10 +18,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="{{url('/register')}}" style="color:white">Register<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="{{url('/register')}}" style="color:white">Register New User<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{url('/student/create')}}" style="color:white">Student Registration</a>
+                    <a class="nav-link" href="{{url('/student/create')}}" style="color:white">Old Student Registration</a>
                 </li>
                 </ul>
             </div>
